@@ -111,6 +111,8 @@ $ yarn run start:prod
 
 La API estará disponible en `http://localhost:3000`
 
+Si quieres utilizar un puerto diferente al 300 puedes configurar el puerto en .env PORT=<port-number>
+
 ## Ejemplos de Uso
 
 ### Desde Tu Aplicación (con Firebase Auth)
